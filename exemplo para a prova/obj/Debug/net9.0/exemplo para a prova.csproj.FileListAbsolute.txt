@@ -1,0 +1,14 @@
+C:\Users\PH\source\repos\exemplo para a prova\obj\Debug\net9.0\exemplo para a prova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PH\source\repos\exemplo para a prova\obj\Debug\net9.0\exemplo para a prova.AssemblyInfoInputs.cache
+C:\Users\PH\source\repos\exemplo para a prova\obj\Debug\net9.0\exemplo para a prova.AssemblyInfo.cs
+C:\Users\PH\source\repos\exemplo para a prova\obj\Debug\net9.0\exemplo para a prova.csproj.CoreCompileInputs.cache
+C:\Users\PH\source\repos\exemplo para a prova\bin\Debug\net9.0\exemplo para a prova.exe
+C:\Users\PH\source\repos\exemplo para a prova\bin\Debug\net9.0\exemplo para a prova.deps.json
+C:\Users\PH\source\repos\exemplo para a prova\bin\Debug\net9.0\exemplo para a prova.runtimeconfig.json
+C:\Users\PH\source\repos\exemplo para a prova\bin\Debug\net9.0\exemplo para a prova.dll
+C:\Users\PH\source\repos\exemplo para a prova\bin\Debug\net9.0\exemplo para a prova.pdb
+C:\Users\PH\source\repos\exemplo para a prova\obj\Debug\net9.0\exemplo para a prova.dll
+C:\Users\PH\source\repos\exemplo para a prova\obj\Debug\net9.0\refint\exemplo para a prova.dll
+C:\Users\PH\source\repos\exemplo para a prova\obj\Debug\net9.0\exemplo para a prova.pdb
+C:\Users\PH\source\repos\exemplo para a prova\obj\Debug\net9.0\exemplo para a prova.genruntimeconfig.cache
+C:\Users\PH\source\repos\exemplo para a prova\obj\Debug\net9.0\ref\exemplo para a prova.dll
